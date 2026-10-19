@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/**
+ * @brief Kiem tra mot so co phai so nguyen to.
+ */
 int is_prime(int n) {
     if (n <= 1) return 0;
 
